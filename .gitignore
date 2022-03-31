@@ -36,3 +36,7 @@ nbdist/
 .nb-gradle/
 /bin/
 node_modules/
+**/.gitignore
+**/mvnw
+**/mvnw.cmd
+**/.mvn
